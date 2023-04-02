@@ -1,1 +1,1 @@
-# Design-and-3D-modeling-sagemath
+# Design-and-3D-modeling-jupyter
